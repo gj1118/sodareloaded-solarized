@@ -1,0 +1,53 @@
+{
+	"added_words":
+	[
+		"app",
+		"youtube"
+	],
+	"always_show_minimap_viewport": true,
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"node_modules"
+	],
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Harneet/HarneetIsAwesome.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS"
+	],
+	"font_face": "Monaco",
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets_angle": true,
+	"overlay_scroll_bars": "enabled",
+	"soda_classic_tabs": false,
+	"soda_rect_scrollbars": false,
+	"soda_tabs_autowidth": true,
+	"theme": "SodaReloaded Solarized Light.sublime-theme",
+	"word_wrap": true
+}
